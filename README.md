@@ -1,10 +1,11 @@
-# mastermind
-
-> A Vue.js project
+# mastermind 
 
 ## Build Setup
 
 ``` bash
+# go to the folder
+cd mastermind
+
 # install dependencies
 npm install
 
