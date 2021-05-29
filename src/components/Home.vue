@@ -3,8 +3,9 @@
     <div>
       Board List:
       <ul>
-        <li>
+        <li class="list">
           <router-link to="/b/1">Board 1</router-link>
+          <router-link to="/b/2">Board 2</router-link>
         </li>
       </ul>
     </div>
@@ -18,5 +19,7 @@ export default {
 </script>
 
 <style>
-
+.list{
+  display: inline-block;
+}
 </style>
